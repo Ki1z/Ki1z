@@ -1,6 +1,6 @@
 ## Kiiz
 
-> Sincerity smooth th way to success
+> Sincerity smooth the way to success
 
 ## ABOUT ME
 
