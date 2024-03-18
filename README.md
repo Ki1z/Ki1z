@@ -8,6 +8,12 @@ It Seems that there is nothing...
 
 ## Finished
 
-- PHP base ✔️
+- PHP basic ✔️
 
-- MySQL base ✔️
+- MySQL basic ✔️
+
+- C basic ✔️
+
+- HTML ✔️
+
+- CSS basic ✔️
