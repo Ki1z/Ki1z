@@ -10,6 +10,8 @@ It Seems that there is nothing...
 
 - PHP basic ✔️
 
+- PHP Medium ✔️
+
 - MySQL basic ✔️
 
 - C basic ✔️
