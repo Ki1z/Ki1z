@@ -8,14 +8,12 @@ It Seems that there is nothing...
 
 ## Finished
 
-- PHP basic ✔️
+- PHP basic   ✔️    PHP Medium   ✔️
 
-- PHP Medium ✔️
+- MySQL basic ✔️  
 
-- MySQL basic ✔️
+- C basic     ✔️
 
-- C basic ✔️
+- HTML        ✔️    CSS basic    ✔️
 
-- HTML ✔️
-
-- CSS basic ✔️
+- Linux basic ✔️
