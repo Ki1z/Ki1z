@@ -4,16 +4,4 @@
 
 ## ABOUT ME
 
-It Seems that there is nothing...
-
-## Finished
-
-- PHP basic   ✔️    PHP Medium   ✔️
-
-- MySQL basic ✔️  
-
-- C basic     ✔️
-
-- HTML        ✔️    CSS basic    ✔️
-
-- Linux basic ✔️
+Still learning, so surely there is nothing, right?
